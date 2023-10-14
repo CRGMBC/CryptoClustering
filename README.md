@@ -6,6 +6,7 @@ This challenge is to predict if cryptocurrencies are affected by 24-hour or 7-da
 Provided csv data consisted of a list of cryptocurrencies and their market data during different time periods
 
 **Process**
+
 The data was normalised to be able to find the best k value for the K-Means modelusing all the features of data provided.  
 I determined the best value for k was 4 based ont he Elbow curve plot
 
